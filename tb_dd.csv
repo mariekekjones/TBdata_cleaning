@@ -1,0 +1,19 @@
+﻿variable,definition
+country,Country or territory name
+who_region,"WHO Member States are grouped into 6 WHO regions. AFR: African Region, AMR: Region of the Americas, SEA: South-East Asia Region, EUR: European Region, EMR: Eastern Mediterranean Region, and WPR: Western Pacific Region"
+year,Year
+pop,Estimated total population number
+incidence_100k,Estimated incidence (all forms) per 100 000 population
+incidence_number,Estimated number of incident cases (all forms)
+hiv_percent,Estimated HIV in incident TB (percent)
+hiv_incidence_100k,Estimated incidence of TB cases who are HIV-positive per 100 000 population
+hiv_number,Estimated incidence of TB cases who are HIV-positive
+mort_nohiv_100k,"Estimated mortality of TB cases (all forms, excluding HIV) per 100 000 population"
+mort_nohiv_number,"Estimated number of deaths from TB (all forms, excluding HIV)"
+mort_tbhiv_100k,"Estimated mortality of TB cases who are HIV-positive, per 100 000 population"
+mort_tbhiv_number,Estimated number of deaths from TB in people who are HIV-positive
+mort_100k,Estimated mortality of TB cases (all forms) per 100 000 population
+mort_number,Estimated number of deaths from TB (all forms)
+case_fatality_ratio,Estimated TB case fatality ratio
+new_incidence_100k,"Case notification rate, which is the total of new and relapse cases and cases with unknown previous TB treatment history per 100 000 population (calculated)"
+case_detection_percent,"Case detection rate (all forms) [also known as TB treatment coverage], percent"
